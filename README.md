@@ -110,8 +110,7 @@ Risk Assessment
 Full Analysis
 
 The complete protocol red-flag analysis is available as a PDF.
-
-"View the Full Protocol Red-Flag Analysis" (YOUR_PDF_LINK_HERE)
+**[View the Full Protocol Red-Flag Analysis](CDDA_protocol_red_flag_portfolio__120815.pdf)**
 
 ## Skills Demonstrated
 
