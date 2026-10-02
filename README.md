@@ -95,22 +95,37 @@ This approach helped translate protocol language into practical clinical researc
 # Portfolio Evidence
 Selected screenshots from the completed analysis are displayed below.
 
-Protocol Review
+## Portfolio Evidence
 
-"Protocol review" (protocol-review.jpg)
+Selected screenshots from the completed analysis are displayed below.
 
-Red-Flag Analysis
+### Protocol Review
 
-"Red-flag analysis" (red-flag-analysis.jpg)
+![Protocol review](protocol-review.jpg)
 
-Risk Assessment
+### Red-Flag Analysis
 
-"Risk assessment" (risk-assessment.jpg)
+![Red-flag analysis](red-flag-analysis.jpg)
 
-Full Analysis
+### Risk Assessment Heatmap
 
+![Risk assessment heatmap](risk-assessment-heatmap.jpg)
+
+### Data Quality Red Flags
+
+![Red flag data quality](red-flag-data-quality.jpg)
+
+### Eligibility Red Flags
+
+![Red flag eligibility](red-flag-eligibility.jpg)
+
+### Protocol Complexity
+
+![Protocol complexity](protocol-complexity.jpg)
+
+## Full Analysis
 The complete protocol red-flag analysis is available as a PDF.
-**[View the Full Protocol Red-Flag Analysis](CDDA_protocol_red_flag_portfolio__120815.pdf)**
+**[View the Full Protocol Red-Flag Analysis](Clinical_Protocol_Red_Flag_Analysis_NCT06890338.pdf)**
 
 ## Skills Demonstrated
 
