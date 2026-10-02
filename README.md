@@ -101,27 +101,27 @@ Selected screenshots from the completed analysis are displayed below.
 
 ### Protocol Review
 
-![Protocol review](protocol-review.jpg)
+![Protocol review](protocol-review.png)
 
 ### Red-Flag Analysis
 
-![Red-flag analysis](red-flag-analysis.jpg)
+![Red-flag analysis](red-flag-analysis.png)
 
 ### Risk Assessment Heatmap
 
-![Risk assessment heatmap](risk-assessment-heatmap.jpg)
+![Risk assessment heatmap](risk-assessment-heatmap.png)
 
 ### Data Quality Red Flags
 
-![Red flag data quality](red-flag-data-quality.jpg)
+![Red flag data quality](red-flag-data-quality.png)
 
 ### Eligibility Red Flags
 
-![Red flag eligibility](red-flag-eligibility.jpg)
+![Red flag eligibility](red-flag-eligibility.png)
 
 ### Protocol Complexity
 
-![Protocol complexity](protocol-complexity.jpg)
+![Protocol complexity](protocol-complexity.png)
 
 ## Full Analysis
 The complete protocol red-flag analysis is available as a PDF.
