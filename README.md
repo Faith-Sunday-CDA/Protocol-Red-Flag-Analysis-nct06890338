@@ -95,10 +95,6 @@ This approach helped translate protocol language into practical clinical researc
 # Portfolio Evidence
 Selected screenshots from the completed analysis are displayed below.
 
-## Portfolio Evidence
-
-Selected screenshots from the completed analysis are displayed below.
-
 ### Protocol Review
 
 ![Protocol review](protocol-review.png)
